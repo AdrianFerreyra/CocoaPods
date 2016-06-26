@@ -31,6 +31,10 @@ To install release candidates run `[sudo] gem install cocoapods --pre`
 * Accept `pod repo push` with URL instead of only repo name  
   [Mark Schall](https://github.com/maschall)
   [#5572](https://github.com/CocoaPods/CocoaPods/pull/5572)
+* Shows GitHub Issues that could be related to potential issues.  
+  [Orta Therox](https://github.com/orta)
+  [#4817](https://github.com/CocoaPods/CocoaPods/issues/4817)
+
 
 ##### Bug Fixes
 
